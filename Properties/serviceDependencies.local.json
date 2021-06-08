@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/az203sademo",
+      "type": "storage.azure",
+      "connectionId": "az203sademo",
+      "secretStore": null
+    }
+  }
+}
